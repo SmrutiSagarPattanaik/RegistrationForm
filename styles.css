@@ -65,8 +65,7 @@ h2 {
 
 .form-control p {
   color: #e74c3c;
-  position: absolute;
-  bottom: -20px;
+  margin-top: 10px;
   visibility: hidden;
 }
 
